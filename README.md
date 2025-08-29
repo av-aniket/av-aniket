@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aniketgawade248@gmail.com**
 
-- ⚡ Fun fact **When I'm not Coding, I'm Editing videos**
+- ⚡ Fun fact: **When I'm not Coding, I'm Editing videos**
 <p>&nbsp;</p>
 
 ---
