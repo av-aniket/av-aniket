@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/0a/dd/5a/0add5a26394fa458118f96c0bb49e840.gif)
+![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 <h1 align="center">Hi 👋, I'm Av_Aniket</h1>
 <h3 align="center">CS Student | Video Editor</h3>
 
@@ -51,8 +51,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=av-aniket&show_icons=true&locale=en&layout=compact" alt="av-aniket" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=av-aniket&layout=donut" alt="av-aniket" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=av-aniket&show_icons=true&locale=en" alt="av-aniket" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=av-aniket&show_icons=true&theme=radical" alt="av-aniket" /></p>
 
 
