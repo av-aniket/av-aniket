@@ -47,12 +47,11 @@
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>&nbsp; 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-<p>&nbsp;</p>
+  <p>&nbsp;</p>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=av-aniket&layout=donut" alt="av-aniket" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=av-aniket&layout=donut" alt="av-aniket" width="400" height="180"/></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=av-aniket&show_icons=true&theme=radical" alt="av-aniket" /></p>
 
 
