@@ -53,6 +53,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=av-aniket&layout=donut" alt="av-aniket" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=av-aniket&show_icons=true&theme=radical" alt="av-aniket" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=av-aniket&show_icons=true&theme=radical" alt="av-aniket" /></p>
 
 
