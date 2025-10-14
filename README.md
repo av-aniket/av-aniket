@@ -2,10 +2,12 @@
 <h1 align="center">Hi 👋, I'm Av_Aniket</h1>
 <h3 align="center">CS Student | Video Editor</h3>
 
----
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=2&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
 <img align="right" alt="Coding" width="350" src="https://media1.tenor.com/m/xtRU2hPyPV0AAAAC/jujutsu-kaisen-jjk.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=av-aniket&label=Profile%20views&color=0e75b6&style=flat" alt="av-aniket" /> </p>
+<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=av-aniket.av-aniket&left_color=teal&right_color=coral&left_text=Profile%20Visitors"  /></p>
 
 - 🌱 I’m currently learning **Web Dev**
 
@@ -16,7 +18,9 @@
 - ⚡ Fun fact: **When I'm not Coding, I'm Editing videos**
 <p>&nbsp;</p>
 
----
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=2&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
 ### <h2 align="center">SKILLS</h2>
 
@@ -52,7 +56,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="60" alt="blender logo"  />
 </div>
 
----
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=2&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -64,6 +70,9 @@
   </a>
   <a href="https://twitter.com/aniket3909r" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="aniketgawade248@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
   <p>&nbsp;</p>
