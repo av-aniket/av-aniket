@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web Dev**
 
-- 💬 Ask me about **Figma & Front-End**
+- 💬 Ask me about **Front-End**
 
 - 📫 How to reach me **aniketgawade248@gmail.com**
 
