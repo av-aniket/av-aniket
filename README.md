@@ -4,7 +4,7 @@
 <h3 align="center">CS Student | Video Editor</h3>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=av-aniket.av-aniket&left_color=teal&right_color=coral&left_text=Profile%20Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=av-aniket.av-aniket&left_color=teal&right_color=coral&left_text=Profile%20Visitors"/>
 </p>
 
 <div>
