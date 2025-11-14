@@ -30,7 +30,7 @@
 
 <h3 align="center">Programming Language</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo" title="JavaScript" />
   <img width="12" />
 </div>
 
